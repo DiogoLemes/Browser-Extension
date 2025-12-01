@@ -1,2 +1,2 @@
 # Browser-Extension
-side project of a Chrome based browser extension for learning 
+side project of a Firefox based browser extension for learning 
